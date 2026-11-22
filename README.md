@@ -1,0 +1,1 @@
+A platform where users maintain a digital inventory of food available at home, including quantities and expiration dates. The system can associate pantry ingredients with recipes, help users find suitable recipes, create shopping lists, and track food consumption.
